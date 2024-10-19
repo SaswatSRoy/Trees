@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class BinarySearchTree {
     static class Node{
         int data;
